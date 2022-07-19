@@ -1,0 +1,15 @@
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.csproj.AssemblyReference.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.AssemblyInfoInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.AssemblyInfo.cs
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.csproj.CoreCompileInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\bin\Debug\net6.0\Example011_Array_Generation.exe
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\bin\Debug\net6.0\Example011_Array_Generation.deps.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\bin\Debug\net6.0\Example011_Array_Generation.runtimeconfig.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\bin\Debug\net6.0\Example011_Array_Generation.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\bin\Debug\net6.0\Example011_Array_Generation.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\refint\Example011_Array_Generation.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\Example011_Array_Generation.genruntimeconfig.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures2\Lecture_1\Example011_Array_Generation\obj\Debug\net6.0\ref\Example011_Array_Generation.dll
