@@ -1,0 +1,15 @@
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\bin\Debug\net6.0\Example012_Method.exe
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\bin\Debug\net6.0\Example012_Method.deps.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\bin\Debug\net6.0\Example012_Method.runtimeconfig.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\bin\Debug\net6.0\Example012_Method.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\bin\Debug\net6.0\Example012_Method.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.csproj.AssemblyReference.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.AssemblyInfoInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.AssemblyInfo.cs
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.csproj.CoreCompileInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\refint\Example012_Method.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\Example012_Method.genruntimeconfig.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example012_Method\obj\Debug\net6.0\ref\Example012_Method.dll
