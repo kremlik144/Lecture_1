@@ -1,0 +1,15 @@
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\bin\Debug\net6.0\Example014_Sortirowka.exe
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\bin\Debug\net6.0\Example014_Sortirowka.deps.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\bin\Debug\net6.0\Example014_Sortirowka.runtimeconfig.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\bin\Debug\net6.0\Example014_Sortirowka.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\bin\Debug\net6.0\Example014_Sortirowka.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.csproj.AssemblyReference.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.AssemblyInfoInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.AssemblyInfo.cs
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.csproj.CoreCompileInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\refint\Example014_Sortirowka.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\Example014_Sortirowka.genruntimeconfig.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example014_Sortirowka\obj\Debug\net6.0\ref\Example014_Sortirowka.dll
