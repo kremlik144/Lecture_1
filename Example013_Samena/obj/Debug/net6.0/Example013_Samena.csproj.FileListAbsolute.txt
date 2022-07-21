@@ -1,0 +1,15 @@
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.csproj.AssemblyReference.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.AssemblyInfoInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.AssemblyInfo.cs
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.csproj.CoreCompileInputs.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\bin\Debug\net6.0\Example013_Samena.exe
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\bin\Debug\net6.0\Example013_Samena.deps.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\bin\Debug\net6.0\Example013_Samena.runtimeconfig.json
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\bin\Debug\net6.0\Example013_Samena.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\bin\Debug\net6.0\Example013_Samena.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\refint\Example013_Samena.dll
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.pdb
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\Example013_Samena.genruntimeconfig.cache
+C:\Users\You_P\Desktop\G&B\GitHub\Lectures3\Lecture_1\Example013_Samena\obj\Debug\net6.0\ref\Example013_Samena.dll
